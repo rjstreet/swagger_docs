@@ -4,8 +4,8 @@
     "title": "public",
     "version": "1.0"
   },
-  "host": "amwinstest.azure-api.net",
-  "basePath": "/marvel",
+  "host": "http://gateway.marvel.com:80",
+  "basePath": "/",
   "schemes": [
     "https"
   ],
